@@ -1,0 +1,30 @@
+{
+	"storyName": "Kauai island",
+	"hideFreeplay": false,
+	"weekBackground": "island",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Stitches",
+			"stitch",
+			[
+				66,
+				73,
+				153
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"stitchmenu",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}
